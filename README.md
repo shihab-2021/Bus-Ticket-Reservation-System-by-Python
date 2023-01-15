@@ -10,4 +10,6 @@ _**3\. EXIT**_
 
 You have to enter your choice, then the rest will come one by one.
 
+See the <a href="https://drive.google.com/file/d/1I3QKroem-S7r2oTd7T99wrx9uT-WINRf/view?usp=sharing">demo video</a> for better understand.
+
 Thank you.
