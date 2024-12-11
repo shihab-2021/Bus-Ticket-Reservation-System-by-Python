@@ -3,12 +3,9 @@
 Small Bus Ticket Reservation System project by using **_python_**.
 
 After run index.py file, this will show you:
-
-  **_1. Create an account_**  
-  
-  **_2. Login to your account_**  
-  
-  **_3. EXIT_**  
+ 1. **Create an account**
+ 2. **Login to your account**
+ 3. **Exit**
 
 You have to enter your choice, then the rest will come one by one.
 
